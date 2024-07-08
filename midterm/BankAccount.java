@@ -1,4 +1,5 @@
 // @author 2018111620 주재현
+/*
 package midterm;
 
 import java.util.Scanner;
@@ -110,3 +111,4 @@ public class BankAccount {
 	
 
 }
+*/
