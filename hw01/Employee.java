@@ -34,6 +34,7 @@ public class Employee {
     }
 
     // 직위 입력 메소드
+
     public void setPosition(String position) {
         this.position = position;
         // 이 객체의 position값을 매개변수 position으로 설정
